@@ -4,6 +4,7 @@
 -configure TailwindCSS
 -Header
 -login form
+-signUp form
 
 
 # Features

@@ -3,9 +3,19 @@
 -create React App
 -configure TailwindCSS
 -Header
+`routing of App
 -login form
 -signUp form
-
+-form validation
+-useRef Hook
+-Firebase setup
+-deploying our project 
+-create signup user account
+-implement sign In user API
+-created TRedux Store with userSlice
+-implemented Sign Out
+-Upadate Profile
+-Fetch Movies
 
 # Features
 Login/sign up

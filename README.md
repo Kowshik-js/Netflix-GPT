@@ -19,7 +19,7 @@
 -Unsubscribed to the onauthstatechange callback
 -add hardcoded value to the constant file
 -Register TMDB API and created an app and get access token
--get data from TMDB now playing movies listy API
+-get data from TMDB now playing movies list API
 
 # Features
 

@@ -8,9 +8,10 @@ export const USER_AVATHAR=
 export const API_OPTIONS = {
     method: 'GET', 
     headers: {
-      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjMTlmNzA4YTk0N2VjMjhhNmNmYmJlZDc4ZTgzNTFiMCIsIm5iZiI6MTczMTkwOTI0OS41ODgyODY5LCJzdWIiOiI2NzNhZDRjODc0YTJlNmUwMjM3YjU0ZTciLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.LzMW6EyKDkN0mV1nG4W3RRQxlnSN06rmXtGEsuid_L4',
-      Accept: 'application/json' 
+      Accept: "application/json",
+      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjMTlmNzA4YTk0N2VjMjhhNmNmYmJlZDc4ZTgzNTFiMCIsIm5iZiI6MTczMjM4MDQxOS45OTg0OTQ2LCJzdWIiOiI2NzNhZDRjODc0YTJlNmUwMjM3YjU0ZTciLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.5vL3xkVqLfqWsbzpV_jXzB_pj35s49VL6BOTst0ZyG0',
+     
     },
-    url: 'https://api.themoviedb.org/3/movie/now_playing?language=en-US&page=1'
+   
   };
   
